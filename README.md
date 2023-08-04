@@ -1,1 +1,1 @@
-# AUTO95
+# AUTO95 automatically scans your system for Windows 95 retail upgrade files, copies them to your hard disk (assuming enough disk space exists), then launches SETUP.EXE with an answer file to streamline the upgrade process.
